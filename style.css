@@ -1,0 +1,81 @@
+
+/* Tag Selectors */
+
+h1 {
+  color: #665d58;
+  font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+  font-weight: bold;
+  text-align: left;
+}
+h2 {
+  color: #ffffff;
+  font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+  font-weight: normal;
+  margin: 10px;
+}
+h3 {
+  color: #665d58;
+  font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+  font-weight: bold;
+  margin: 10px;
+}
+body {
+  background: #665d58 url(http://www.clipartbest.com/cliparts/dc7/6oo/dc76ooRc9.png) no-repeat;
+  background-position: 0px 5px; 
+  font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+}
+
+/* Class Selectors */
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: bold;
+}
+.intro {
+    background-color:#665d58; 
+    border-width: 2px;   
+    border-color:white;  
+    border-style:solid; 
+    color:white;
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+    font-weight: bold;
+    font-size: 400%;
+    margin: 100px 250px 100px 250px;
+    text-align:center;
+}
+.heading {
+    border-radius: 20px;
+    border-width: 8px;     
+    background-color:#fa2021;
+    color:white;
+    clear:both;
+    margin: 025px 10px 0px 10px; 
+    padding:5px;
+    text-align:center;
+}
+.stage {
+    background-color:#65c5c4;
+    color: #fefffd;
+    margin: 10px;
+    margin: 0px 25px 0px 25px; 
+    padding:10px;
+}
+.topic {
+    background-color:#fefffd;
+    border-radius: 20px;
+    color: #665d58;
+    line-height:30px;
+    margin: 10px 10px 10px 10px; 
+    padding:5px;
+}
+
+.footer {
+    color:white;
+    clear:both;
+    margin: 25px 10px 0px 10px; 
+    padding:5px;
+    text-align:center;
+}
